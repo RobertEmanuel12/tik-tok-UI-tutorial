@@ -1,0 +1,67 @@
+#addbutton{
+    position: relative;
+    bottom: -620px;
+    left: -360px;
+    width: 200px;
+    
+}
+
+
+#addbutton:hover{
+    width: 205px;
+}
+
+
+body{
+    background-color: rgb(41, 40, 40);
+    
+
+    
+     
+        
+      
+}
+
+#gif{
+    position: relative;
+    bottom: -400px;
+    width: 550px;
+    height: 700px;
+    border-radius: 10%;
+}
+
+html {
+    --scrollbarBG: lightblue;
+    --thumbBG: black;
+  }
+  body::-webkit-scrollbar {
+    width: 11px;
+  }
+  body {
+    scrollbar-width: thin;
+    scrollbar-color: var(--thumbBG) var(--scrollbarBG);
+  }
+  body::-webkit-scrollbar-track {
+    background: var(--scrollbarBG);
+  }
+  body::-webkit-scrollbar-thumb {
+    background-color: var(--thumbBG) ;
+    border-radius: 6px;
+    border: 3px solid var(--scrollbarBG);
+  }
+  
+
+
+  #m{
+    color: rgb(41, 40, 40);
+    font-size: 20px;
+    position: relative;
+    bottom: -300px;
+  }
+
+  #tik{
+    position: relative;
+    top: -745px;
+    left: -875px;
+    width: 300px;
+  }
